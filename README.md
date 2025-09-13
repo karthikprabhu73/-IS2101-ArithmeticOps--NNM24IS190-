@@ -1,4 +1,4 @@
-# IS2101-ArithmeticOps--NNM24IS193-
+# IS2101-ArithmeticOps--NNM24IS190-
 To implement signed integer multiplication and division algorithms using C programming
 
 This repository contains C programs implementing three fundamental arithmetic algorithms:  
