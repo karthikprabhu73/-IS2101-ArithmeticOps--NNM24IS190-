@@ -1,4 +1,4 @@
-# IS2101-ArithmeticOps--NNM24IS190-
+# IS2101-ArithmeticOps--NNM24IS193-
 To implement signed integer multiplication and division algorithms using C programming
 
 This repository contains C programs implementing three fundamental arithmetic algorithms:  
@@ -33,6 +33,12 @@ gcc RestoringDivision.c -o RestoringDivision
 
 gcc Non_Restoring_Algorithm.c -o NonRestoring
 ./NonRestoring
+```
+## Output of Shift-Add Multiplication
+![Shift Add Multiplication Output](sequential_output.png)
 
+## Output of Restoring Division
+![Restoring Division Output](Restoring_division_output.png)
 
-
+## Output of Non-Restoring Division
+![Non-Restoring Division Output](Non_Restoring_Division.png)
